@@ -1,0 +1,22 @@
+
+
+body{
+  font-size: 20px;
+  font-family: 'Kalam', cursive;
+  background-image: url(images/fond.jpg);
+  background-size: cover;
+}
+
+img{
+  width: 420px;
+  height:420px;
+}
+
+h1{
+  text-align: center;
+}
+
+.inline{
+  display: inline-block;
+      padding-left: 250px;
+}
